@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Youssef Aboshosha 👋<br>### Data Engineer & Analyst<br><br>I build robust, automated ETL/ELT pipelines, architect data warehouses, and transform raw data into scalable analytical solutions that drive executive and operational decisions.<br><br>---<br><br>### 🛠️ Technical Stack & Tools<br><br>- **Languages:** SQL (SQL Server, PostgreSQL, T-SQL, Snowflake SQL), Python (Pandas, NumPy, Polars)<br>- **Data Engineering:** SSIS, SSAS, Data Warehouse Design, Dimensional Modelling (Star/Snowflake Schema, SCD Type 2), Airflow, Docker<br>- **BI & Analytics:** Power BI (DAX, Power Query), Apache Superset, Excel (Advanced), Dataiku<br>- **Methodologies:** Root Cause Analysis, KPI Benchmarking, Hypothesis Testing, Regression Analysis<br><br>---<br><br>### 🚀 Featured Projects<br><br>#### 📊 [Gravity Books End-to-End Data Warehouse](https://github.com/Youssef-Aboshosha)<br>* **Tech Stack:** SQL Server, SSIS, Star Schema, Dimensional Modelling<br>* **Impact:** Transformed a normalized OLTP database into an analytics-optimized Star Schema (Fact Sales + 5 Dimensions). Built automated SSIS pipelines with SCD Type 2 historical tracking, reducing reporting build-time from hours to minutes and establishing a single source of truth for executive decisions.<br><br>#### 📈 [Supply Chain KPI Tracker](https://github.com/Youssef-Aboshosha)<br>* **Tech Stack:** SQL, Power BI, DAX, ETL Pipeline<br>* **Impact:** Designed an end-to-end SQL-to-Power BI pipeline tracking supplier lead times, order fulfilment rates, and inventory turnover. Built DAX-driven actual vs. target variance analysis to cut down time-to-insight on performance gaps.<br><br>---<br><br>### 💼 Professional Experience<br><br>* **Data Engineering & Analytics Intern** @ *Global Brands Group (GBG)* `[Apr 2026 - Present]`<br>* **Data Engineering & Analytics Trainee** @ *NTI-Hire Ready Program* `[Jan 2026 - Apr 2026]`<br>* **Customer Care Agent (Contract)** @ *Concentrix (Verizon Account)* `[Nov 2025 - Jan 2026]`<br>* **Data Analyst Intern** @ *Click-Its* `[Sep 2023 - Dec 2023]`<br><br>---<br><br>### 🎓 Education & Certifications<br><br>* **B.Sc. in Statistics and Mathematics** | Tanta University `[2019 - 2023]`<br>* **Certifications:** Snowflake SQL Associate | FWD Data Analysis Advanced | Database Fundamentals<br><br>---<br><br>### 🤝 Connect with Me<br><br><p align="left"><br>  <a href="https://linkedin.com/in/usfwho" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>  </a><br>  <a href="mailto:usfwho@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br>  </a><br></p><br><br>---<br>⚡ *Fun fact: My core analytical background comes from deep roots in Statistics and Mathematics.*
 
-<!--
-**Youssef-Aboshosha/Youssef-Aboshosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UsfWho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/usfwho/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Youssef Aboshosha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usfwho@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Youssef-Aboshosha&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Youssef-Aboshosha&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Youssef-Aboshosha&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Youssef-Aboshosha&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
